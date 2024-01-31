@@ -98,5 +98,3 @@ class _WebScreenLayoutState extends State<WebScreenLayout> {
     );
   }
 }
-//hello world
-//how are you ?
