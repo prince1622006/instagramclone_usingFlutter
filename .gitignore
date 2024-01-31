@@ -1,0 +1,31 @@
+# Dart
+.dart_tool/
+.packages
+.pub/
+/build/
+
+# Flutter
+/.idea/
+/*.iml
+/.vscode/
+/*.code-workspace
+/android/gradle/
+/build/
+/ios/Pods/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework/
+/ios/Flutter/App.framework/Info.plist
+/ios/Flutter/App.framework/flutter_export_environment.sh
+/ios/Flutter/Flutter.xcconfig
+/ios/Flutter/ephemeral/Flutter.framework/
+/ios/Flutter/ephemeral/Flutter.framework/Info.plist
+/ios/Flutter/ephemeral/Flutter.framework/flutter_export_environment.sh
+/ios/Flutter/ephemeral/Flutter.xcconfig
+/ios/Flutter/ephemeral/flutter_assets/
+/test/
+/web/build/
+/web/dart_tool/
+/web/packages/
+.clang-format
